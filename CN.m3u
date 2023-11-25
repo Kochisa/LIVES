@@ -1,1119 +1,215 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1[ipv6]
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv-1[geo-blocked]
-https://epg.pw/stream/78f0712606d51d9811eaa776e3ea93708c3f4b341c11e17dc3ca1466b96af9b3.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@4[ipv6]
-https://epg.pw/stream/0ef91c51031b7772fdb7b080bc006776d112c7d029b86cfca9bad6c4294c53bb.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@10[ipv6]
-https://epg.pw/stream/cf3b93b28e08650d90b7c20d478e36b2bd2090749acead858b4a98553c2f0f39.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@11[ipv6]
-https://epg.pw/stream/5674233683f0498e4271ddbeb345ec29c0eba703c988e6962595550dc1af7b9a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@16[ipv6]
-https://epg.pw/stream/960192460e742af597efd712c6fee1c5baf1e90589d2166e6e3f0dd636132070.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@19[ipv6]
-https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@6[ipv6]
-https://epg.pw/stream/9b729e6c878984d044d0552a24528d74fe7ef50bf62542ff952688d80f70e770.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@13
-https://epg.pw/stream/01af785917e23763b37a6e1ec764bce6608b14094a7efc6900c48b917bb19eaf.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@14
-https://epg.pw/stream/149d9ac1b6234f41c3e61634bbcb0508dee05c6abcb3d3d0486431e52151e0d0.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[VGA]cctv1@@15[geo-blocked]
-https://epg.pw/stream/00bccd76ae209a2fbb4d5276032d22c11df8bab914549c0cd7a8d9d064ada628.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@17
-https://epg.pw/stream/ee6bfbbf6bd7448cd334ce598474b15c4179f9cf07a6980cd02389132eef0af0.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@20
-rtmp://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@21[geo-blocked]
-https://epg.pw/stream/ed56f455ae3fdab6f18723bceb3da6c3ee2e7ad0914baa05f5a533c02f6f303d.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@22
-https://epg.pw/stream/57eb8c20ab82ee6e2f2036468ffe5bf77c2f33dbc5d7df72c251bdd41940d4f1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@29
-https://epg.pw/stream/e87ac64457c976111fc8524f11c25da508b807c29647c571b45ab13a609917c2.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@30
-https://epg.pw/stream/134c86c534b7f857501f1c89fd63f8f413eb01554dc6a8b1349db289cd783710.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="綜合",[BD]cctv1@@35
-https://epg.pw/stream/bf38186e49a6ec4c82717ed84505ecd0b8544b68e51d5ef383b78962ab523b2a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@1
-https://epg.pw/stream/b5623236fec5328e33430865dd3f496d5d0677531de9198706ea6ebf30261c7c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@3
-https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv-10[geo-blocked]
-https://epg.pw/stream/b1380a97f3366ac8e7c1d54bb35fb682a1013bd5b5d73e215a7d99590dc67f00.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@5
-https://epg.pw/stream/475b0e2420d753f5bc4fc0e649c983e89506272dc54784ef2c8595031c65a5fa.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@6[ipv6]
-https://epg.pw/stream/135b0c63ef363a242279fb2ed5811a80cfc7fa2bd5dc66ecfe3fa9775980de8a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@7[ipv6]
-https://epg.pw/stream/42171068f1cd623e711b6a2434af0f7c2aa912dac5cddd30f68d737df451cd90.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@9[ipv6]
-https://epg.pw/stream/a069427ccbbbce55eac15cf669f292774fdba54d938286ecaa0dfcb7209fa3c7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@10
-https://epg.pw/stream/65a98eb1bc5fc38505f2c025c2f0c88f31429e43104486845616deb65bf9c895.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@11
-https://epg.pw/stream/a06c873746bc0055e8bea996edc133df8e79c687bbcf9638b83f93da022f6cbc.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@12[ipv6]
-https://epg.pw/stream/fe9f2e0bdadda39351ab26f29af49cef76523ead5679d9cb408252373361a4cf.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@13[ipv6]
-https://epg.pw/stream/47f2da5e9e93a257e9c47aeccfacef9ddb6665ab0752caa93aa4c6e3583ec64f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@14
-https://epg.pw/stream/309ab7d12a6185c4f927128b0668be27e961d1378fab6c9b97bc432637488032.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@16[geo-blocked]
-https://epg.pw/stream/0937483bd03ffa7801b20d2dd1857d0806bb69dbd4a947475f1511d7d448c44a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@19
-https://epg.pw/stream/6f4489c5bc615294be1c5af5c9abd1f0b3d4e9728da4a010e6385f2ca11facb0.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[VGA]cctv10[geo-blocked]
-https://epg.pw/stream/702a248005dd0225d8ed1dfb970e3a9bf4c3c41c0369865e4844b6130b4ff0d0.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="其它",[BD]cctv10@@2[ipv6]
-https://epg.pw/stream/0dcbed2ed662304a0dfedbfd136a829adf1c5248c533627626fddff02fb1b19f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="電影",[BD]cctv11[ipv6]
-https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="電影",[BD]cctv11@@1[ipv6]
-https://epg.pw/stream/1b897c654abc2a54a6ed0a683963a82e1dd597d18a7a4d12b37454d1d0371d0a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="電影",[BD]cctv11@@3[ipv6]
-https://epg.pw/stream/4dbad17eedbd1453be29e404a8ccf8a6696cc9102d42f0c26189711a0e6af29f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="電影",[BD]cctv11@@11[ipv6]
-https://epg.pw/stream/9406544481813cd1a77428cd09fc75c69e8a81eded381b9c1f3807f8e1ee1749.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="電影",[BD]cctv11@@25
-https://epg.pw/stream/469d1a55e8234c672e7ed47a336aa1ccb5f5aec618a0f24641ba38ec746a3161.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@1[ipv6]
-https://epg.pw/stream/aedb71e61961cd2a5a5b9a8a83b8ae489c9408e6b420593aecb92cc36de628fe.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv-12[geo-blocked]
-https://epg.pw/stream/18eaea90d0253d3e4cc690f1ca8a5ec5d01a48bcfa42907f7362199eeb7ce9f8.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@7
-https://epg.pw/stream/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@10[ipv6]
-https://epg.pw/stream/73e76f84f85f78d63807bfb8e51dff03850f7d1cafd1c6521d6eb45272bc4ead.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@12
-https://epg.pw/stream/02719c38e1aafef4c31d2bea7d5d01504840e97a5bf902fb56117805872dba0f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@13[ipv6]
-https://epg.pw/stream/fc87709463835c6bdecf9bd22b516aa7bb7e9ba4d7003e35b94ae5a88334ce2c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@19
-https://epg.pw/stream/a6870bf97aab6a8d97a8222a583022752dba8fc5015b0cefbe690037020b2350.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@23[ipv6]
-https://epg.pw/stream/f54beab3aefd87eb54c62a366f0a0390657c04b691b71a1a686108e115adb8f1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@24[ipv6]
-https://epg.pw/stream/e1632a4078c4b9d85bd860443ea1d66b7ad80e861c4d251048241b9c405cc873.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[VGA]cctv12@@25[geo-blocked]
-https://epg.pw/stream/0e074349085698d3ae58391704e32e63feddc136affffdac05dc6bd4e83bf891.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="綜合",[BD]cctv12@@8
-https://epg.pw/stream/861517ee63d538e82cf7f2366aa455f79bcfe9332163c526347e2858324d6e6e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@1[ipv6]
-https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv-13@@1[geo-blocked]
-https://epg.pw/stream/bb6d6621796a1607895c24b4b52afa0570bb08a15cdd20831db1f342133551f6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@26[geo-blocked]
-https://epg.pw/stream/2e135236d0ff52c43640aa563829ff97bc30a95ed04f5629416dcc4c77eafbc6.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@30
-https://epg.pw/stream/c56399bf906d33e8ee29c0ec2b54a2ea5b28c1f4ed6a8f9e574a29dc3d3a5698.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@44
-https://epg.pw/stream/2ea6e420e70d1542debdbf9ffe845619efcf35461b57f9c2ee2ba6ebc7637e77.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[VGA]cctv13@@50[geo-blocked]
-https://epg.pw/stream/764471718e32a86a3ba47eef801eee8bbb884afa0a3e136d48e8f4e233d21db6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13
-https://epg.pw/stream/d8d86dede808358d248bad6c290eba43f63be54e467ea3865a0140b3fb9e5f25.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@2[ipv6]
-https://epg.pw/stream/855a04d80b33a0e0cfab9a9096e263d7fdae3c9a107dd7c13c7790e57c983c91.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv-13
-https://epg.pw/stream/68497e678084075a10f1b9991f28592e12789084579cbde9ccb8e6d221059195.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@5
-https://epg.pw/stream/5eff6ce6035c5ed07464e6c1a9482968c86bde95d5625615c4b87c15ef745dba.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@7
-https://epg.pw/stream/8d8f5970c3388f0b49026ce8ed37a9ab37e33a9d29b7dd4152a05c1332ccc78b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@9
-https://epg.pw/stream/b835012f74c2c646af1393a8ea0976399a470bfd04b46107c699c79975d8176c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@11
-https://epg.pw/stream/f775810be10706600c58373ca47c369fa14a21c1fb1fb953645eaa89b7811b7f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[VGA]cctv13@@18[geo-blocked]
-https://epg.pw/stream/9c5ea1afac03f4018fa46799d1f2788950a59bfae9a3e5a6ce8ff257eea05c41.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="新聞",[BD]cctv13@@19
-https://epg.pw/stream/43fcdf52433f1ccd3279dad5a9471448848cf711e5d0931ba0cef40571a4fe9c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14[ipv6]
-https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv-14[ipv6]
-https://epg.pw/stream/1d3b426c9fa06939dd399e831e8a2de95ab3698db955bd1ac9c5caa0ab8b26e5.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14@@5[geo-blocked]
-https://epg.pw/stream/6cef7d3d168de641b9fa97248d8218d2a9c07e92b96af6a0d921878fe93582a8.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14@@8[ipv6]
-https://epg.pw/stream/83461ebfd58cb4e8f2b1f8582cec3c09dfaf945443cc97f13750342a92d55b41.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14@@10[ipv6]
-https://epg.pw/stream/16ca9a637ef506efd7d36e616488b0137002926d26f62f31c660b1657f09d858.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14@@11
-https://epg.pw/stream/318722914b0180a05ca32723cab95d2e8986a6a28fb451445a2c009279f230be.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14@@12
-https://epg.pw/stream/a283fe1b3fbeab18411bef24777c54aa96e916a807498fb2ff2904e1cbf576ba.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14@@17[ipv6]
-https://epg.pw/stream/373c2e8b5daf79276f52d4a4771d2e6e4d6f423254d5b8d3898559d49eaeb455.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[VGA]cctv14@@18[geo-blocked]
-https://epg.pw/stream/647401e8bba920003b7ce91c0b3a3282c85c57a617bc7eb9eea2d37e32525f85.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv14@@19
-https://epg.pw/stream/5c1d7214257d5c6ef8701a80e143c57696c3d564f415488d81d9d15185f1a2e6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="動畫",[BD]cctv-14@@1[geo-blocked]
-https://epg.pw/stream/505e4d1275542136f37ba93a3cba01bfdee0bc4e214ef102f10844c76d897afa.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15 8m
-https://epg.pw/stream/df25f03b60f5d8a1d6574d8e44974d1a266922f81912c2fecfd46361454467a2.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15 8m
-https://epg.pw/stream/a46eaa78621e9f0a2b7bc12155a9056b168a2565e07f7142dfc5f4bb269a2842.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@37
-https://epg.pw/stream/1c0653eb4d2d556be72d32c2a6209e13210c35eec838a79bee156d4e898891f1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@1[ipv6]
-https://epg.pw/stream/d239fb84263e881c367c092224d5a5bbc9bc8f6096875c7506df050d8106d32c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@3[ipv6]
-https://epg.pw/stream/ecd4b5aa3960959c33cfdf65566e3bc1130992aefe7227dbfae0ca8f9afe055a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv-15[geo-blocked]
-https://epg.pw/stream/671b92e5feb4268e20c067384d5dadf39458c453c95e68bf35dd8cb3557cd0f1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@10
-https://epg.pw/stream/8a359c4d2db4df04d49a1fdbab0798f29d3df22db1879f6e4bc4dd181138c4b3.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@16[ipv6]
-https://epg.pw/stream/3a0e178ff62001411588df93da0de2bd38a1573807d16914cce8bbf65abcf074.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@17
-https://epg.pw/stream/b790211f5e5351863967cc4eff0cfe61ee2bf9ec5caf4df720ca7c17b60273f7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@23[geo-blocked]
-https://epg.pw/stream/edd8e7eedfc8e84c637687654b94a83be8267c0c0c5d0c3d889a6e9509a6f9ba.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@29
-https://epg.pw/stream/cb8dccaeaf60d6eb8d79b7185765a85801a5ccbbb9acf87572421e32a1e2431c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="Music",[BD]cctv15@@6
-https://epg.pw/stream/f5c27d1a459fea9505fe0eaff71c5f8b814a01876be632f11f1251180cd55f9b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16[ipv6]
-https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@3[ipv6]
-https://epg.pw/stream/90bfaec7908423d502fc444f46d6aa727f5b5d36f67d3492d2ddaa559108372e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@4
-https://epg.pw/stream/2e4b122dcdbbeecd30ed99b9f8d9885a742a86b40fd29cc352a4cdc1a0b430b4.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv-16[geo-blocked]
-https://epg.pw/stream/3fa27f5bf8136b49f28d477a805f1219c588cf21ffbada685497c73431d20c6e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@5[ipv6]
-https://epg.pw/stream/dc455aa85ec9ad8bfc603bb74d352f026ad3f2b30bcacc0a5c1d6cb5e4dd9763.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@6[ipv6]
-https://epg.pw/stream/91b1f110a30053ab68490c45c21e354b9931df58f78e30812a8b3f444e2f6fd7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@7
-https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@10[geo-blocked]
-https://epg.pw/stream/88432130a32875dc03aab0604ff31c6291c75f22b58243882c6a2b0059b9289f.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@12
-https://epg.pw/stream/af26c155f9b348cd59a266d18e6126b17990bb01727943725ffd5db1e63a8456.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@17
-https://epg.pw/stream/a53d5c50f7c1f6b719e764499ce8dc3e237d5181c99909a81335a8432b3c3300.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16@@18
-https://epg.pw/stream/e62d3772b51b3c72fb7a656b4f3668706059e412d51ef6cbecc6b1d67fced5a0.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16 8m
-https://epg.pw/stream/a40cab6b916dec5f03cb8d888d13baa8dfc371a45b5e4a51f557ae266602a9c1.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="運動",[BD]cctv16 8m
-https://epg.pw/stream/517815f160c93d58422d9994ce94181819cb9ff2a0492036b3ed93e479336184.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@3[ipv6]
-https://epg.pw/stream/850d207a6bd9159749041be5576bc529b8591dff14959b2f12e0f15231003b38.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@4[ipv6]
-https://epg.pw/stream/e708db23c72b7ff54d1311af9347bd7a3d20831bc1554f0aa3adfd27beb3510f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@5[ipv6]
-https://epg.pw/stream/dd5459fcec8357309796c5bb885239fe4acd95b5976634afed4b404ac959a9e4.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@7
-https://epg.pw/stream/44f2d7bb089b3e93edb72781cf8be53646bfacdc00fd1de3dade4ffc0da0a96b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@8
-https://epg.pw/stream/17a4a4ae88eefd18832c1644405d935ca77155ad2a670f3cbf7bf450a2632df1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@10
-https://epg.pw/stream/15b134cb22a7756c0eeb48cd1d675cb0dff862c6c0858e6e07a7813162ad487b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@13[ipv6]
-https://epg.pw/stream/b56e3cf0a4fb3cc1e2d771a1ae82d6023de0bc66eee74b63c81fb327c8006f58.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@14
-https://epg.pw/stream/e447d3ea6fd9c55e02f049d9146fccfc115ffc071937d2de6a2255a1c25e847c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@18
-https://epg.pw/stream/ebdfdfd01743b976ade43010f85d22fe764b11810cae81ddc139d1f302b4da73.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@19
-https://epg.pw/stream/075aaf354045d6871ed468a6c4a685d8da25a6a1aaee00e61fb82b1850cf5397.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17 8m
-https://epg.pw/stream/b3997477d0742021b4c904855f6e8be024b3980340d5f382ec498027c50cde81.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17 8m
-https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998fa827b52fbf8ba0a988c96daa.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="其它",[BD]cctv17@@27[ipv6]
-https://epg.pw/stream/ca992b7d8074c3274f67a9cb7a2e79e637497429acb67d6227d7a745bac2af6f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17hd" tvg-id="CCTV17hd" tvg-name="CCTV17hd" group-title="其它",[BD]cctv-17hd
-https://epg.pw/stream/fdbb77954b2266cb6e39bd8f1c614e9e0c61c82a48059f326a4ac862d3cb7163.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@2[ipv6]
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
 https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@3[geo-blocked]
-https://epg.pw/stream/df533bc2427ac82957ccf8e9bcb9706fd8b095581e28146416de172d70b65dc0.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@4[ipv6]
-https://epg.pw/stream/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@5[ipv6]
-https://epg.pw/stream/c4fe654287b623b12ae8998e38958ca0fd85d5359f11587722174cb38b6318c8.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@8[ipv6]
-https://epg.pw/stream/0ff1a5df634b89d961ceb79e32ec6f09791aeca7014e15f5f8c6b8a92f5af3f1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@12[ipv6]
-https://epg.pw/stream/8d9a2d76a0d819bf594bd8698a0ceadca5d3ac2b1b44321ab0cc534ebd1c4cd6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@15
-https://epg.pw/stream/5607aea0281cd0b43ac4c2697b7d09f580c8ae4d717ae3a462e24a89915017f6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@20
-https://epg.pw/stream/56b3862915fdf5bcf640fee36fc169e6e6e9ca9a44663406cc3ec70d5f278145.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[VGA]cctv2@@22[geo-blocked]
-https://epg.pw/stream/e11f896b35e5060241289b432b898973330ee2a8236a1b6e611e0a6620b60f4d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@23
-https://epg.pw/stream/0c2d56a09c4103a4bd2a0b1fce3daaafa5402ea91fb9166faa2489ce5c440506.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@25
-https://epg.pw/stream/c211dc7c7e361326eeb316f377006a6121762f74c3888cffce2ca82411c5d284.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@29
-https://epg.pw/stream/2396be1ac936b1b7a08d5b984d952a31c85f0d8e856b2615b4d8990e14076753.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2 8m
-https://epg.pw/stream/306d8b0a118db25a34c0944629bf8f6a901f85ab475bb12abcc12c1e65f27287.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2 8m
-https://epg.pw/stream/b29da70eefd6565052c425e7c2d8071d98b27472c336966500395670ba41d56d.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[VGA]cctv2@@31[geo-blocked]
-https://epg.pw/stream/8ab644d1de870eb0a901eeee1ff7228927d4217fdccef41c7003dd39d6e4adb0.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2
-https://epg.pw/stream/20786507e757fe067df9e9efbc2351b1124d211a591d4238ed5ba5520a252067.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@9
-https://epg.pw/stream/b1588dff37e0c4db282c42aef4ee6913d38baec2e947a471c86cd0c094f65ae3.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@10
-https://epg.pw/stream/18e5e9e4691cd41d22eabbee34ffad898e0f7d88b8f0f313fcfb04fcffc860e2.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="新聞",[BD]cctv2@@27
-https://epg.pw/stream/c1f5952bf58738ccd35359c39f47fb0069ef005f33905f70e8242e8bf40bc941.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3[ipv6]
-https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190d44f0389e0822.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@3[ipv6]
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
 https://epg.pw/stream/792979f74e697c8690b1c342bd7328698fa5876d61949ac70adf91f52d5931e6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv-3[geo-blocked]
-https://epg.pw/stream/b443eac60eaafb3f4102609abb33c33a31a0b1bbe2c2dbf59b9da9795094d288.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@10[geo-blocked]
-https://epg.pw/stream/ff7cd6442e62a855718d06e4a4bf30b436567952f43c3ccd2f36edc8e415633b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@12
-https://epg.pw/stream/31f5ee8674a8a9d1ab3228b40633e66a0300ce8b13b8cf4c1b7afa823ec93d64.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@14[ipv6]
-https://epg.pw/stream/f518947f40573f54371b4f637922d4f731301a6ab283df9f0d0d103318e23471.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@16
-https://epg.pw/stream/73bca3c93655b1037b8ab0d273206c14ba8757fc8951b26eb7d04e442a221a67.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@17
-https://epg.pw/stream/3bb74d13638b8240a2e01539b786d7170980579c9d28f58052795e25b7e9ceb8.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@18[ipv6]
-https://epg.pw/stream/07581cceb5e46fd7fa1550c53881af8f70e83c26b41775eabda18d314266f74e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@20
-https://epg.pw/stream/3fd2c9f4888f57f823e727360d0e0a036cc559100a022e071ad5d61680418dfa.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@21
-https://epg.pw/stream/33711cece64c9077907fa3caea452361f539772402550ca53ae2c9b00a3211b3.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@25[ipv6]
-https://epg.pw/stream/c83a4b6070eb9c6c18cea915513a2f868bab17d94dba015c9ab23218ea788c73.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@29
-https://epg.pw/stream/a708960cd0a1aca3707fa2c3b9c8ecc9f782fe75d3b11e7436733be98424605d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3 8m
-https://epg.pw/stream/f83dc7ca0f76dfbe67adde17966cef5aeccc0bf4cb946bb19ba6b5c987f17c02.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@38
-https://epg.pw/stream/9f3b4d5f463574211c8174a5b6cdc9dd53a096d93cd7fa1831f37cad5a5be028.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@43[ipv6]
-https://epg.pw/stream/2cd6d5fb7db6b6ba2f3d562906d56fe2fde0a79d52cbd6450492a88133481229.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[VGA]cctv3@@6[geo-blocked]
-https://epg.pw/stream/ce95ca1c8a1b4dabd5e70ceb7456b3cf03c762ca8f75676c3e75178dd3bbe6fa.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="綜藝",[BD]cctv3@@7
-https://epg.pw/stream/844b6f26eacfd95cff1b2551b422c310b42daad47a00fb6a0be39f70db454a5c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@3[ipv6]
-https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv-4[geo-blocked]
-https://epg.pw/stream/401a949394db600526cbdc16ef4022099a02752602452c1e53d1847d164e699d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="新聞",[BD]cctv4k@@1
-https://epg.pw/stream/7a75b421ef8187ba65e03db4b8a66a58e515ae76824a6c7eecf04a346ff6a799.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@7[ipv6]
-https://epg.pw/stream/964a51445ff33a4d13e786b28b01992fa55022cfc28c81c5f24497d1131a5d18.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="新聞",[BD]cctv4k@@3[ipv6]
-https://epg.pw/stream/b46a351015140e5ed26ef9fb0dd209e75d9f8cdacd473f6ee53d582d9920f4d6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4美洲台" tvg-id="CCTV4美洲台" tvg-name="CCTV4美洲台" group-title="新聞",[BD]cctv4美洲台@@1
-https://epg.pw/stream/ea667bc85bcbcad6992374fc86e35ec3b66a7bfcdd4fcd38cda782d17948bc43.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@10
-https://epg.pw/stream/a722b1d2e56f302d937c1860fb90c5fa0f5cdc3154486dea6a906089073fc71a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@12
-https://epg.pw/stream/28ac083f38fb06e45817d91b8b96eb4a941d6a03d25c89ab47599ab525d84d44.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@16
-https://epg.pw/stream/ef9b087371bda4714a5baf1f17f93e9dc7cfd2890eab472f3058709c17b3315f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@18[ipv6]
-https://epg.pw/stream/173974a9aa4812c07d1939b6299367f9299ea167348301ebcbb87fd3969fc8b6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@19
-https://epg.pw/stream/59969d0c9f12b2ab0ce0a67dba7bac00ec03c0568888cef04aa3036f4a9c77de.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@21
-https://epg.pw/stream/af0ea7b1f68853ca5bfe0596780ba63da7676f5018b81e8cf62e456503847bdf.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@22
-https://epg.pw/stream/6ad4d9e306cee0c07d19d7766e731b3b9c911d495180ed59b793d1b1ba86909f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@27
-https://epg.pw/stream/9dca82acae622047c106cad98fa866a026074d1dfd956b0a1f7555f6dd5077ad.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4 8m
-https://epg.pw/stream/94ebcc2f0e65029f8845699a8320d6a0defbd9165c6e48d786bf537e3f46b058.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4 8m
-https://epg.pw/stream/27dd2885c32ca621fd9b8290cccb8706db0bbdf5131dde158432969c8b4582bf.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4
-https://epg.pw/stream/a7f0d56e777b44cd7c3339e136200ca1dded1dfff3f2bed2d22bc193a4dd09d2.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4
-https://epg.pw/stream/70c52e52731a83347d7a252656f6c3d17d544feb3b6d1ec38cdc4c047dd29a51.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@1[ipv6]
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 https://epg.pw/stream/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@2[ipv6]
-https://epg.pw/stream/5fc5fb89a1b7aea2834688eb0fc431436d4eb0a1f34db20cc6fa40699fcd6db7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[BD]cctv4@@4
-https://epg.pw/stream/c12729822e0fe7b91e322f89dd761e03bd1ee6339eb3b1543f1adb5584f16785.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="新聞",[VGA]cctv4@@5[geo-blocked]
-https://epg.pw/stream/a88d74532ae065bcc0328e4448f4298a0722666413689773b636d0763bdaa1db.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@12[ipv6]
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 https://epg.pw/stream/7fd03354d83e374ff627c5846e60f0b8bbc68be70f73ca9ba56bd2ed9e325421.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@15[ipv6]
-https://epg.pw/stream/1ffe16d61d03c294d0c96913c0e50a55ddd1d62dc7bf0875851dfcc54f19ff51.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@21
-https://epg.pw/stream/674be5f69df9d0bfdf5a07a6e359be339ba853219311325dc8315d1bd0af5fb2.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@23[geo-blocked]
-https://epg.pw/stream/f2c1b46720f173c47e13954afeca4cad58cc34a348c28c212be598b4279ebbe4.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@24[ipv6]
-https://epg.pw/stream/80def076b7cddbfa72b9308bace524d664a8f79f55779da3023ff75896535801.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@28[ipv6]
-https://epg.pw/stream/3eb61cfd54cff93444ec661596c302b2fb4b838aa194d114c8d40cb9139cfb8c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@30
-https://epg.pw/stream/27880815a33100015c0916a056017466e53a7325af919e1e7bdf3c21b736922c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@36
-https://epg.pw/stream/69b26134bfd0c266fccdf525edaeaf1362137fb6b70973aa1af9b209defdf23c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[SD]cctv5-
-https://epg.pw/stream/cc902888f3e80cc1c287aaea76c06b60e820d17d88fbd216959c1b4dc6da6dea.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5 8m
-https://epg.pw/stream/1443f8c73448db444f95be02629c7146848df675f9b46c973a9726563ce53705.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+ 8m
-https://epg.pw/stream/749c20542b007452e018550afa496c589223c73d7338935a5253b3fa0178170b.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5-
-https://epg.pw/stream/5d7311734dc2b0fe54c9136cacdb593eaa42333aac294266551c51fe24a5aea2.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5 8m
-https://epg.pw/stream/a78f71242108680df7906ddbb135770ce010554d9cbb16b8e4a5b4677e48f4dc.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+ 8m
-https://epg.pw/stream/d8c3fd914a69b03e064890c0c599a57033698984c54bdccc000b70a0c6acfc5e.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@44
-https://epg.pw/stream/0c005c57368e6079e87d7d3520876835430aa42b7a6489b6a3f50b5f4ad6cc42.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@50
-https://epg.pw/stream/90a9d80d249e31892a0a5a5ab12f53099cce87dd27a413d0df168f517b22cad8.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@51
-https://epg.pw/stream/315bc0701b8f4770796a2d89b8d74b9b17df7f53bcd41ca3d613e6f5130ddbbb.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@54
-https://epg.pw/stream/1ff52ffc196640a12229dc8d2e47c0816ec043e5132c756128acfb0981698abc.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5-高清
-https://epg.pw/stream/f274c941f50a6c2bd18e15c99b22b104dbb8266b1176f93a4be33c4175b992a6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[VGA]cctv5[geo-blocked]
-https://epg.pw/stream/61df3be1490c927a746d671e52c9f9cb197fba5a08184c147a68eb80f84c4824.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@2
-https://epg.pw/stream/adb44bd82f5b3ca74215055baf2dd73f770be75c73179be33c2daee0380452ef.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@3
-https://epg.pw/stream/ad4ac1045a67c7e1dfb4a3dd822179a3119cd4f30f49dbe1cf9e317e7059a85f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv-5+[geo-blocked]
-https://epg.pw/stream/1d533b513ff3e4761c74b845a51729f2fa5dc68f9b2fcaa9d72ecf509f361cff.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[VGA]cctv5@@4[geo-blocked]
-https://epg.pw/stream/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@6[ipv6]
-https://epg.pw/stream/68390b4e0ff9a7a285fc6b8f2e0afff834096f6d3373ed862049cd98622047d6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@8
-https://epg.pw/stream/31ed5a513c03addabe783eb3efbe95ac1a9191a43897c307591eb7a597ab13ae.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@9
-https://epg.pw/stream/ed02b8de7e8694705eda998a5905fbae21da95504360f6328c731da79a3a9162.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@10
-https://epg.pw/stream/df06602e1779477faa4dc8f2584e549a3c6bb05e6f471505e3cec5aff75307bd.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@11
-https://epg.pw/stream/11db0a7833afd03b419868fa749679205d45856b5c86e04362bf8cd6752b93ee.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@14
-https://epg.pw/stream/1c3f476f43c5e93f3c733f5f5f8eebf42057499702f11f0ceb4c6f7b3d8bdbba.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@17
-https://epg.pw/stream/67fe8c488a7697e1dd14dc6ffde56a12fe81af4c4d78a00610aed54efb6d7e79.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5@@18
-https://epg.pw/stream/564dcdf6a4174e99aeb20430c36197db361321a1f4d8bc0b1a0f428a48fb1c77.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@12[ipv6]
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 https://epg.pw/stream/1418e2d0115a2b8fcf0e226014bf9e46d6c54d20d5222a26f83b68e9b1720ac7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@14[ipv6]
-https://epg.pw/stream/2fd1c8815a7e4df2fe055710e093a5fa0c9019da8476a53c6493f1eef4dd38cc.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@16[ipv6]
-https://epg.pw/stream/c8560b706d9c7cb02b8b2a59a2c11a8b3d27768b932893d7d46084a95db47d57.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@2
-https://epg.pw/stream/a7116fdb22e0136417238128e16f99f809a03400642ff9bd287ea5836655d29a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@3
-https://epg.pw/stream/7981c913470473b3a58f00fbe26773cb6e00101b6c19f0a428d781ea3232ebe1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@6[geo-blocked]
-https://epg.pw/stream/4e133151c35a9cb2f88d2d8298fe572786cc4cefaf14ca45a72f0ab1dada4b35.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@7
-https://epg.pw/stream/f6e72adae94d04b13488c829391932dc44c2c128b9fb383bb35b702605c9ea40.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@8[ipv6]
-https://epg.pw/stream/4ac8702f7f5a5b0d972e76862b0bb9b1f43f695fe78adcafcc0f9ecab99e3589.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@9
-https://epg.pw/stream/2e64dc3d92b775a4ab2e9f4c6a561264ed92012dc1bab9ab7d22d3d0f7f1ec9d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@13[ipv6]
-https://epg.pw/stream/cc48f627f2883e644b2ec69a79e9b016f671cb0a9de8393345ddeab2603dd007.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@15
-https://epg.pw/stream/88e9b33036aac3ca28574e9ab711afd7a87663391812a08c9fbb2afd4e399217.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="運動",[BD]cctv5+@@33
-https://epg.pw/stream/6c30509eb0a91e40ef2b7ff44ae4ab34e2c4204f547bdced3f6da9f500fc598d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@1
-https://epg.pw/stream/bf04aadae6b900db1b404cc8a35789a737c58049146a4d49a9825090217ae00d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@2[ipv6]
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@3[ipv6]
-https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv-6[geo-blocked]
-https://epg.pw/stream/a444025fe5f72f64385141ec6895e9c9334a553582a392460b341523decc868d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@4[ipv6]
-https://epg.pw/stream/12222da81a59a4b766eebab3c8c43f4fa910637ea182be42e2affdae3ebb845c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@5
-https://epg.pw/stream/2a22fcffc0b3a34410dd2542f667384395c370d13d733cf9aa1a0901c8b90b5f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@9
-https://epg.pw/stream/cb457712b70f842fe2ae131de8b4bf72464f30ab48aa8054ebdf5fd2d1b5802e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@11[geo-blocked]
-https://epg.pw/stream/51d6d337c4cbc6022c79db6d28f1606a876b750df63ed3505cb35ca43f038e4d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[VGA]cctv6@@12[geo-blocked]
-https://epg.pw/stream/c03b6acc8b1df8ee5c0157006e6137861b9c499b77f3d801f87723585cb0b33e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[VGA]cctv6@@16[geo-blocked]
-https://epg.pw/stream/dcb9ce0c4519647a87ce3fd6e9bb5c39c43e6529b726e8d094f23b2037055e1c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@17[ipv6]
-https://epg.pw/stream/b71ed08343e2a8ce5956c8f7d80368f6f50bc863892d63443511b9f8823cbe00.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@27
-https://epg.pw/stream/7fe14fead22e08de87944b663beda51a3967f32c580c3fad466d300b07bae155.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6电影" tvg-id="CCTV6电影" tvg-name="CCTV6电影" group-title="電影",[BD]cctv6电影
-https://epg.pw/stream/182b7e9e54f834fc1da9f336225391cd6adbd3442f214cab3b06a7c2e21d0e9e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6 8m
-https://epg.pw/stream/ea559ca2b60299bc5dda8015b1cec956d6f3a25de78c88f3efa9d2d634829e54.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6 8m
-https://epg.pw/stream/f0e2e83785e7ad6df968ad3601288d34831a0ad355190f5f6fe07124b541ef28.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@32
-https://epg.pw/stream/3df57d9015a670f382b41560e90cf0e0bdb22bb8b0e38a0dbde9528c773a267a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@34
-https://epg.pw/stream/a5e9e37769f05e9b0298bb563fefe2769efc31964452e821ea6fc0675e66473b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="電影",[BD]cctv6@@41[geo-blocked]
-https://epg.pw/stream/7ecdb23edf70606f6286894a0289434b5bfbb53dfd1e5da9bf37e50e26ec7ea4.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7[ipv6]
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7@@3[ipv6]
-https://epg.pw/stream/3c1054782e22686d6cba0109ba56949cc5ebb93b1ab68dd03fc247efb4f281af.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv-7[geo-blocked]
-https://epg.pw/stream/03caf9b35e5163d56a51050ff4d887f0cfc6dcb3f06a15fd287b3403dac7c310.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7@@4[ipv6]
-https://epg.pw/stream/9e8311376447893f5373738d1935f31049c07d4bcd73dadf4a02b42502ad839d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7@@5[ipv6]
-https://epg.pw/stream/ac01cb50d02dc19b524e493e1d65202f058f6d2061d1d137e70d84fc4b1ff86f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7@@13[ipv6]
-https://epg.pw/stream/d28e942571b2fd22fa2b1aa249ab111e4dc8070978b5f0d69bc21f72883c36a1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7@@14
-https://epg.pw/stream/6e7780911520fc3a01624e3118516956d5ce2789a485726424c72f87a1457f2e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7@@16[ipv6]
-https://epg.pw/stream/e6e28149435d0e5eaf164959711070b2803e098b7726bef9cc9195187aac1718.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[VGA]cctv7@@22[geo-blocked]
-https://epg.pw/stream/1831a8a3040d205d25695862c7fa483cf0054e4c976b4b3b6bca3b07dff8105d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7 8m
-https://epg.pw/stream/1869750e7fec16840aa9640af700a9a44015baa5d74f0868e351a42d79be8938.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7 8m
-https://epg.pw/stream/c58244953378c8167c4a2cc2078a80ce3176d165d86e0674b75d7eb542ed8a20.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv7@@1
-https://epg.pw/stream/0096725f43e634afc4064347813318c94a42d6f429657af9aa05bc55c0baac9e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@1
-https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@3[ipv6]
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
 https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv-8[geo-blocked]
-https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@5[ipv6]
-https://epg.pw/stream/7bf7c554e6315edb6e079d382ff59f19f624554c5abb76100eb10cbe6a0a875c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[VGA]cctv8@@7[geo-blocked]
-https://epg.pw/stream/3225eb155544574a700436db6d094e599b30f49fff403194afc9b43d7388352c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@8
-https://epg.pw/stream/0a1873ab23ed1a7848161a2afe9f0afc6abf13a7fa7e8a7bf96ac4afa5919ca4.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@9[ipv6]
-https://epg.pw/stream/ba3b4e36fb922605a51884cd578cbd1d0bdf8c80a5278cd2a400a5facbbfb270.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@10
-https://epg.pw/stream/1252df796189917dcb5d903cba0882d2a779165ac3cb4ff5e1adf4f4d0806290.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@11
-https://epg.pw/stream/60ff50ba97c33e8a350f382aa200a9e262ee9dc03c3e483413b1a1fbb1808a18.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@12[geo-blocked]
-https://epg.pw/stream/faf030243a912e714a0b0721afdab9803c61ab72a436edf75ac88606a651a156.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8k" tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="電影",[BD]cctv8k@@2[ipv6]
-https://epg.pw/stream/e5d71d45d03d6693b320b0ae58da2ae3ad3f6ade9294a2bb4c56de0a6656eab1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@13[ipv6]
-https://epg.pw/stream/fe2385c77e93431d17fc9b53171c4c33b8a775d11fcc722eb3de7d43f8a28395.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@14
-https://epg.pw/stream/1ec89e16529470d2d86316692034532cb02bbbc0e1d24b66a7dc42b18c5abf7f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@15
-https://epg.pw/stream/a02e97f36835155a5b6ff860fd9eb266559218d6c152e61b1d52535c86fa771c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@17
-https://epg.pw/stream/86602435a8714252e67ad89b768ab0d04326b3f4c5b0951f4476e347df9b3201.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@19
-https://epg.pw/stream/953673bf76e9843ebaf9ebc4a71bd43c22a9076c52756245b32f389ac36a727f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@20[ipv6]
-https://epg.pw/stream/a6da9f1926138950681f95e748614ac225dd23892fe4e4682514cb4d8d8cda0c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@21[geo-blocked]
-https://epg.pw/stream/d4735f1f761ea33c83e2a22929a80fefcb9298f8f47cda8651c62077854306b2.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@24
-https://epg.pw/stream/4dbd78fa420bac8ba615e053a31aba3aeaa08bdb88e9fe455b30f3001fb938ab.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@25[geo-blocked]
-https://epg.pw/stream/315bb38f1e7861e1b36a03ec47c8e4f8a0b3adf72b29228f30f39b174d27df4d.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV18" tvg-id="CCTV18" tvg-name="CCTV18" group-title="電影",[HD]cctv-18高清[geo-blocked]
-https://epg.pw/stream/368001bacec80b3eba12150b0f5e7aed314e46956170e63cd2e7ec0892b705f2.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@27
-https://epg.pw/stream/cb9d7e8cef20808f874314aff538d1e2f37f94d130d63defdc47964f2b6f5392.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8 8m
-https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04a3ba2a.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8 8m
-https://epg.pw/stream/8668753fd1c3d66ab8ac6b6d9b08add4d05db6ead8c589a5c8db7e8ddedab8c2.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@34
-https://epg.pw/stream/bf91a878888d3cd9a40e82b77f9e9b7e5053edab4fa0e59d9af8620a70161c3e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/[bd]cctv 8k@@1[ipv6]" tvg-id="[bd]cctv 8k@@1[ipv6]" tvg-name="[bd]cctv 8k@@1[ipv6]" group-title="電影",[BD]cctv 8k@@1[ipv6]
-https://epg.pw/stream/0793d1f13e243abaf428ae7e71c5a683d3895b2fe40cc5341fada0242bd96665.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8k" tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="電影",[BD]cctv8k@@5[ipv6]
-https://epg.pw/stream/f6cd5b287127e4954c97603eab267fcb072e3c746615c86320c10816701f62fa.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8k" tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="電影",[BD]cctv8k[geo-blocked]
-https://epg.pw/stream/0d8f448dd2a81cd9017b6492abb8ca260442992e276e98b60144f7886698f5f9.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@4
-https://epg.pw/stream/7b5a6ea4439bfeeaf4f08a40e82f05988c6002bb7dca67ac7c2d61d1efca6ac7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="電影",[BD]cctv8@@6
-https://epg.pw/stream/37f8cb3bff1bdc50b5e2c9a17591023fc3ba71ac36b6a4902566ac39487ed458.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[VGA]cctv9[geo-blocked]
-https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@1[ipv6]
-https://epg.pw/stream/8ed9d7c3d80e951d144c16e49df97faccee81760765d6c44cbde00668cc98bf6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@2[ipv6]
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 https://epg.pw/stream/dffb0bf94d817668a2a1e69554f375454d60d8c5a13cca40472edf682b38ecbd.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@6[ipv6]
-https://epg.pw/stream/703c0af497d666a2d6b6c245e1487acf4a5e1eca1e25c82595bad5cde7bb3600.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@7
-https://epg.pw/stream/8a99231be509bad4d51d74a2627680b3a42f0a75872d75a0089ca362c99fa7fb.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@8
-https://epg.pw/stream/6e15c93f3f9b1acaf6783b0b1a81b84b81181db27b7541281cbeff4d45aa96f5.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@9
-https://epg.pw/stream/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@10
-https://epg.pw/stream/9795b80e68496fc07137b3cb2e530bcac9a353550d64dfa84a65ef2b845b54b7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@15
-https://epg.pw/stream/e8dc4afc38fd38e2e3530e2d458d5b09f48f7e0f121fe225d89cee0a21c8c67b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@16[ipv6]
-https://epg.pw/stream/df993bf12ce73305db2e83953163e9e030cd3d02cdbab7455be8e6c9c0a55fdc.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@17[ipv6]
-https://epg.pw/stream/aebeba594fb58caebf126f8cc18e7ac8201dbf36d772380bd18a693ca48319d8.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@18[ipv6]
-https://epg.pw/stream/f4e32734452203d9a400787e1d8eea7db27f5a135d12eb257b8f4fb28413b3c4.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@20
-https://epg.pw/stream/6bcbb01fda06ee279885e8edf12825738261ae846dc9d2d3f6b06173609e8ae9.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@28[ipv6]
-https://epg.pw/stream/9a47f14351cfb48aaa6f4b41f27d2eda7553da354111aa267c5cb173c62e919f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9 8m
-https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@3[geo-blocked]
-https://epg.pw/stream/3dffb0bca82158a57b260e7464acb554f0d888fc32a7b2f366380c4c0adc7ef5.ctv
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="紀實",[BD]cctv9@@5
-https://epg.pw/stream/d7e6e14441711b44112b694d4bd4878507bfcb184e1c00c42d88cd82cb56a875.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV世界地理" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="紀實",[BD]cctv世界地理@@2
-https://epg.pw/stream/11c219a42efcf83cb803803e1dea54147772aca320727da7cb40136b1b208e07.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV世界地理" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="紀實",[BD]cctv世界地理@@6[ipv6]
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
+https://epg.pw/stream/42171068f1cd623e711b6a2434af0f7c2aa912dac5cddd30f68d737df451cd90.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+https://epg.pw/stream/73e76f84f85f78d63807bfb8e51dff03850f7d1cafd1c6521d6eb45272bc4ead.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+https://epg.pw/stream/bb6d6621796a1607895c24b4b52afa0570bb08a15cdd20831db1f342133551f6.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
+https://epg.pw/stream/a283fe1b3fbeab18411bef24777c54aa96e916a807498fb2ff2904e1cbf576ba.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
+https://epg.pw/stream/d239fb84263e881c367c092224d5a5bbc9bc8f6096875c7506df050d8106d32c.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+https://epg.pw/stream/850d207a6bd9159749041be5576bc529b8591dff14959b2f12e0f15231003b38.m3u8
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="央视",CCTV世界地理
 https://epg.pw/stream/62bd38d13979ff229cfdfe498eb5320eae75779c398f2d1b0b30f933a1c37430.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV世界地理" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="紀實",[BD]cctv世界地理
-https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV世界地理" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="紀實",[BD]cctv世界地理@@4
-https://epg.pw/stream/6716f16d770e07857dd79880ba4eac8be33b12152aa02723f9b13fb5f6486dca.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV兵器科技" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="新聞",[BD]cctv兵器科技[geo-blocked]
-https://epg.pw/stream/31387d02f3c753ac9bcebff76834268ddf38c7668ee1e16b5c6621971de64ef1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV兵器科技" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="新聞",[BD]cctv兵器科技@@3
-https://epg.pw/stream/a30b4450fac84ae0006a2cffa2ef1d9c9c149918a0d2803a47f3fe74f026f7fa.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV兵器科技" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="新聞",[BD]cctv兵器科技@@1
-https://epg.pw/stream/e78f4dd6ab50a3761f1877154a198fa1eb5e398648e0ba4ea788c20c6b301a84.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV兵器科技" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="新聞",[BD]cctv兵器科技@@2
-https://epg.pw/stream/c34781f30e244a3046ef3abb49157af4cb1537808c1f4e826b69b8215a74f8b6.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV兵器科技" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="新聞",[BD]cctv兵器科技@@4
-https://epg.pw/stream/cf89b8e69ac2d05546728fcee133c19ac9de8e5ea67358408a19c4984b91c62c.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="其它",[BD]cctv-7 国防军事[ipv6]
-https://epg.pw/stream/6cd445b103afe10eeadd0341f7ec5bf0f999bead53bf3cb82ca14c851d9416a3.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7国防军事" tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" group-title="其它",[BD]cctv-7国防军事@@4
-https://epg.pw/stream/fed00977626c6c76927fe5cc2b10f6445704f9fe024ccfa8f3dffa856850fb5e.m3u8
-#EXTINF:-1,[BD]cgtn@@3
-https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8
-#EXTINF:-1,[BD]chc家庭影院@@2
-https://epg.pw/stream/55aef73b39d667f57e837970d095e74a1d32936c80e59d1ded1c36731a7a72af.m3u8
-#EXTINF:-1,[BD]chc家庭影院@@3[geo-blocked]
-https://epg.pw/stream/17e53dd9bb59100cba075de7a4aae8aa7c0c37828b68f9fbe8f85ab07d16e78d.m3u8
-#EXTINF:-1,[BD]chc家庭影院@@5[ipv6]
-https://epg.pw/stream/7e90b3c97cb5bd85ab890cf0deafa6d3104a67b9c3b0aaf3cdcd78e3fba21619.m3u8
-#EXTINF:-1,[BD]chc家庭影院@@6[geo-blocked]
-https://epg.pw/stream/55f53b12f86cd04ad73d53eb4d0488a26a5b210319b1db26e4e6e3933873ef79.m3u8
-#EXTINF:-1,[BD]chc家庭影院@@11[geo-blocked]
-https://epg.pw/stream/8fb2619bd80ace8b1855b4ae55a5c85fcced055859fe8bc46f77b9b49a2d8863.m3u8
-#EXTINF:-1,[BD]chc家庭影院@@17
-https://epg.pw/stream/8f06f87d0a791e5d50e0d292f70d2adefd0d192ffc46190884551d74cfd3bb0e.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11戲曲" tvg-id="CCTV11戲曲" tvg-name="CCTV11戲曲" group-title="電影",[BD]cctv-11戲曲
-https://epg.pw/stream/92ebb35da62ef06ecd14d895ffb6b60f1f270253a77916f38f79c0f2ac308be3.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV央视文化精品" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="綜合",[BD]cctv央视文化精品@@1
-https://epg.pw/stream/fc9e6464703a5fbef5971a902e635852dcad1a16b136419996d6898fce1e575a.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV中央文化精品" tvg-id="CCTV中央文化精品" tvg-name="CCTV中央文化精品" group-title="綜合",[BD]cctv中央文化精品
-https://epg.pw/stream/8b0f33d962813be8dc67aa3500caa513dc8b4734c6686733b1373c36bef5adba.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV央视文化精品" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="綜合",[BD]cctv央视文化精品@@2
-https://epg.pw/stream/729e7a5aec3b1c286354326c057d982935ac94fa1b44771ad6d851501bfe7792.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV央视文化精品" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="綜合",[BD]cctv央视文化精品@@4
-https://epg.pw/stream/dbc8d3dff6d2e0de3e07bf4ba9dd5ba3dc28873c216207cd91c04bbfa67fcccf.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV央视文化精品" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="綜合",[BD]cctv央视文化精品@@5
-https://epg.pw/stream/d105843f7ab7a4cc26bfa6ab9ee4aa8bf0dd1bd43f272b219ee041cd77d6505f.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV中央文化精品" tvg-id="CCTV中央文化精品" tvg-name="CCTV中央文化精品" group-title="綜合",[SD]cctv中央文化精品
-https://epg.pw/stream/6bae4dacb02e0c9ec8df97bb12166b59b0205772e8b34598b823be72447e4cd8.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV中央文化精品" tvg-id="CCTV中央文化精品" tvg-name="CCTV中央文化精品" group-title="綜合",[SD]cctv中央文化精品
-https://epg.pw/stream/6fe58151417880b691ced3a57e473a7acd016c3a0c1704a58e39a36930484f73.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV中央文化精品" tvg-id="CCTV中央文化精品" tvg-name="CCTV中央文化精品" group-title="綜合",[BD]cctv中央文化精品
-https://epg.pw/stream/38b4b2e5682e4b258762ce44782c15d09ab80c2866019a3658c592861114a2ef.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV中央文化精品" tvg-id="CCTV中央文化精品" tvg-name="CCTV中央文化精品" group-title="綜合",[BD]cctv中央文化精品@@1
-https://epg.pw/stream/9a021fee1284f4e46a78644f10fa4350049fb485a116620fd9e7faac3c20fabd.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV中央文化精品" tvg-id="CCTV中央文化精品" tvg-name="CCTV中央文化精品" group-title="綜合",[BD]cctv中央文化精品@@2
-https://epg.pw/stream/01c8338059afbe0bbe2c8f635af5353595801fdd5358c18918e48a368e9b45b3.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV中央文化精品" tvg-id="CCTV中央文化精品" tvg-name="CCTV中央文化精品" group-title="綜合",[BD]cctv中央文化精品@@3
-https://epg.pw/stream/dc8d60b2803e9f02decb3a917f7a9c006aeed0423401841b7d0cf1ce502d3ce0.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV懷舊劇場" tvg-id="CCTV懷舊劇場" tvg-name="CCTV懷舊劇場" group-title="電影",[BD]cctv懷舊劇場@@2[geo-blocked]
-https://epg.pw/stream/46062157b169601e6eaa6fcc3a25f387e6fefe0b04a2969907d36b4db4fa9b56.m3u8
-#EXTINF:-1,[BD]cetv1[ipv6]
-https://epg.pw/stream/4a405cd885d87ed95cd3a89ad2f96b8c6f32fcb87b0216543803b20f58361b34.m3u8
-#EXTINF:-1,[BD]cetv1@@5[geo-blocked]
-https://epg.pw/stream/14867319e0bd88b95b76ec4ccfd62c4a50370f70bccf3fac4576396494640b1e.ctv
-#EXTINF:-1,[HD]hot亚洲影院[geo-blocked]
-https://epg.pw/stream/aa99732fc19ae401ad0ed7c41fb191711a115b72bec95de50e74e5a50950a702.m3u8
-#EXTINF:-1,[HD]hot欧美影院[geo-blocked]
-https://epg.pw/stream/f96867b7a7eb1ad0f808999b2af77da0dee50f329bb78fc981fd9c4e60b29979.m3u8
-#EXTINF:-1,[BD]newtv武博世界[ipv6]
-https://epg.pw/stream/6d019e50be5915ce372a1c740b953edfb2ff511cf2ae7976e4d5343b037784ee.m3u8
-#EXTINF:-1,[BD]newtv武博世界@@1[ipv6]
-https://epg.pw/stream/18d698a053f9410c21efe97e9786dfe7440592e23f52ef1b29ad1c694c6279c5.m3u8
-#EXTINF:-1,[HD]三明新闻综合[geo-blocked]
-https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
-#EXTINF:-1,[HD]三明新闻综合@@1[geo-blocked]
-https://epg.pw/stream/916bb31a6db0c2584f446ee2fe463ef3a4bf76c3275729b118953b4404cf65a5.m3u8
-#EXTINF:-1,[HD]三明新闻综合@@3[geo-blocked]
-https://epg.pw/stream/6f5eebbfa2cfa3577d29b0264b5ef82b07675101fc276f407397de165e0e6c4a.m3u8
-#EXTINF:-1,[VGA]三明新闻综合@@1[geo-blocked]
-https://epg.pw/stream/7a15b48fac3bdd32b1955132f8bc94980c571e54574edcf9cbba5f5e9f618c53.m3u8
-#EXTINF:-1,[BD]福建|三明新闻综合[geo-blocked]
-https://epg.pw/stream/aa4aa16b60508aa35088a0ae29bea88c58040e37a50625f28f7f8350b69a8200.m3u8
-#EXTINF:-1,[BD]上海ics外语[ipv6]
-https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
-#EXTINF:-1,[BD]上海ics外语@@2[ipv6]
-https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
-#EXTINF:-1,[BD]上海ics外语@@3[ipv6]
-https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
-#EXTINF:-1,[BD]上海ics外语[ipv6]
-https://epg.pw/stream/4d4e6166f147330608a7777afa6d0603d5f54b83ee029f5a2a9d4bd3795613ab.m3u8
-#EXTINF:-1,[BD]上海教育台[ipv6]
-https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
-#EXTINF:-1,[BD]上海教育 8m
-https://epg.pw/stream/4c2942fcdda269a17223ee1c3f2330e817b766b5bb78bee19b39a3d31567e68d.ctv
-#EXTINF:-1,[BD]上海教育 8m
-https://epg.pw/stream/c2761899f954dce8f16b21de8c021f9741cc41abdcf67d9165a194b97a31d1d9.ctv
-#EXTINF:-1,[BD]上海都市@@3[ipv6]
-https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.m3u8
-#EXTINF:-1,[HD]上海都市@@4[ipv6]
-https://epg.pw/stream/554b38be509e5ee260123d7e65185da4cb94f9365c1e4c16f30cbc32a5fe7d6a.m3u8
-#EXTINF:-1,[BD]上海都市@@7[ipv6]
-https://epg.pw/stream/7a4ccf34951b508637e863bb518499a17efef6afe5c49cbc133691b2567d29c9.m3u8
-#EXTINF:-1,[BD]上海都市 8m
-https://epg.pw/stream/ad578b0c34991ef573c74e5aabee0136c346ed3ccb5a79bf53703e9df8c3bc57.ctv
-#EXTINF:-1,[BD]上海都市 8m
-https://epg.pw/stream/ca410fd605825e91fe79028b3874b994b2f362d0842590e94699bee951526d21.ctv
-#EXTINF:-1,[BD]东方卫视 8m
-https://epg.pw/stream/ca2f2aece144ab46ee64c76f769fa36ab38326fd216dd3d9e980bf055524466f.ctv
-#EXTINF:-1,[BD]東方衛視[geo-blocked]
-https://epg.pw/stream/b68627080443db17b87271a819637fbbc403046155dbe6f61413e47d5737f9fe.m3u8
-#EXTINF:-1,[BD]東方衛視@@1
-https://epg.pw/stream/c83de09603c7f850f26383481dcab51246457515856c397a01b5352a19450680.m3u8
-#EXTINF:-1,[BD]東方衛視@@2[geo-blocked]
-https://epg.pw/stream/50eb0f96661db260bce32f805c79e5606263a3c613e0c7d5c9cabe5844f246b0.m3u8
-#EXTINF:-1,[BD]東方衛視hd
-https://epg.pw/stream/9e1f6e63e1737200febd0397e23a172b11dc1806882f1c5d3664314b1a54e9b8.m3u8
-#EXTINF:-1,[BD]东方财经 8m
-https://epg.pw/stream/286590166a173429bc5decbc83dfa5a025c166c188646a4ad332eb605a334505.ctv
-#EXTINF:-1,[BD]中国天气@@8[geo-blocked]
-https://epg.pw/stream/861839a77781d000a7841268a03b289e785ec532d76583bd56ca32a03234aa6b.ctv
-#EXTINF:-1,[BD]之江纪录
-https://epg.pw/stream/1c3841459ccfce2f969a8356933028f27b70aa51dc0a056c49c1e98f439d0e79.m3u8
-#EXTINF:-1,[BD]五星体育 8m
-https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
-#EXTINF:-1,[BD]五星体育 8m
-https://epg.pw/stream/58d0a9fc28a84a220968a93071b15e99f0913e918f893d70fbdc9696f1aa2872.ctv
-#EXTINF:-1,[BD]全纪实 8m
-https://epg.pw/stream/f951ab49e5198e21e04d633712b6b88d15cd4cbdbfddd0c49d0f1c5ea9b69b31.ctv
-#EXTINF:-1,[BD]全纪实 8m
-https://epg.pw/stream/7bcba3498338a4a59bf641e4320d02ee602d8f2e9e0035f20ae6ea854016dd4d.ctv
-#EXTINF:-1,[BD]内蒙古蒙语文化
-https://epg.pw/stream/c3c0caed96cd1a72b3d080bfd1e51aeaf58dc40f803768cfb2e6a153eced3555.m3u8
-#EXTINF:-1,[BD]内蒙古蒙语卫视
-https://epg.pw/stream/af507ddabe6e343ef236e00c1a8344d7b5c6dbda798fda79012271c7ed113759.m3u8
-#EXTINF:-1,[HD]刘德华[geo-blocked]
-https://epg.pw/stream/6d3a3816bad4535486c5112f195f4fa07a544481bf3e8b3b4d16ea711c524f18.ctv
-#EXTINF:-1,[HD]刘德华[geo-blocked]
-https://epg.pw/stream/738e012b33c026e07ab113320a6dcf192a5bed0b2f7a867d9cd67ad8d8a85a89.ctv
-#EXTINF:-1,[BD]动漫秀场 8m
-https://epg.pw/stream/4440fc8cfa72b060a8663e4d0c5a2b5fff29d0bd213b0cac431da3eaa1988e5d.ctv
-#EXTINF:-1,[SD]北京卫视 8m
-https://epg.pw/stream/50301782798540ee9cc384d84d50f806a8a990cd796f99c87e979d18514f31dd.ctv
-#EXTINF:-1,[BD]北京卫视 8m
-https://epg.pw/stream/bad3eafd3e2accf1b0fe1bfb037c56eadb1b7649fb13521daae8b1ad093fa6cb.ctv
-#EXTINF:-1,[BD]北京衛視
-https://epg.pw/stream/d73c6843f3a6a315cd30584ac2d52f22981d87e36ec65a33840b4c47c2eee94f.m3u8
-#EXTINF:-1,[BD]北京衛視@@1
-https://epg.pw/stream/5dd769adc58e7ead7f8c50fe9cc329ec8c61fee9bd0b7e4a730dc938e5f9b64a.m3u8
-#EXTINF:-1,[BD]北京衛視@@2[geo-blocked]
-https://epg.pw/stream/a9bf313b3dc36212a1ccf67c0ae6bef948d3db81f291ebe10c41bb4cdb63134d.m3u8
-#EXTINF:-1,[BD]北京衛視@@3[geo-blocked]
-https://epg.pw/stream/845123739d7c78123e0e240c2f907b6b3e98bf9b798aa5fa99e0a0542567c4cf.m3u8
-#EXTINF:-1,[BD]北京衛視@@4[geo-blocked]
-https://epg.pw/stream/5e98eaae8407271568dc787781f7ac42eec310d61df8b7ab4602741ae72df9bf.m3u8
-#EXTINF:-1,[BD]北京衛視hd
-https://epg.pw/stream/46dc5c4fb2cc97bb4e005c1ea3b0368919ceb8ae501a3b2871835cb62844e008.m3u8
-#EXTINF:-1,[BD]北京生活@@1[geo-blocked]
-https://epg.pw/stream/2ccff5570151d10d87cd087632b6179a5ceebbfed1dba291f5f51df88e62cbc2.ctv
-#EXTINF:-1,[BD]北京紀實科教[geo-blocked]
-https://epg.pw/stream/9417c17817ddd642f0f66770eb432d03d10e39e0e6d927d71de16c53529f1013.m3u8
-#EXTINF:-1,[HD]南京十八 (720p)[geo-blocked]
-https://epg.pw/stream/2e20de6b7bc9777faefc9ed64ef069b643911600bf3ede60c8e7111b60309d35.m3u8
-#EXTINF:-1,[HD]南京十八@@1[geo-blocked]
-https://epg.pw/stream/5b71506c798eefda889643d3059bda4590974887c0f34d6c25073e0159298035.m3u8
-#EXTINF:-1,[HD]南京十八[geo-blocked]
-https://epg.pw/stream/dd789e71484ede841a202c1f93cba3e76622d84037cdce2c9fbe09604f13d72f.m3u8
-#EXTINF:-1,[HD]南京十八@@3[geo-blocked]
-https://epg.pw/stream/2550e1304a07c44b6af9528799e5207f115a9c27bad5e135e8bc7a20126a933c.m3u8
-#EXTINF:-1,[SD]江苏|南京十八[geo-blocked]
-https://epg.pw/stream/11f01ed7155be533886392f6b30b418e6430d93cdf749da25b6c141742e89f06.m3u8
-#EXTINF:-1,[SD]江苏|南京十八[geo-blocked]
-https://epg.pw/stream/a857e23e11879d670fd37cef615d9931e13c0904d4ee9ad72c85962712bd6a8d.m3u8
-#EXTINF:-1,[BD]苏州|南京十八[geo-blocked]
-https://epg.pw/stream/d3ecb7a70cddb31d0380ca703e6551b5277607a300cf38b558db0d494bbad267.m3u8
-#EXTINF:-1,[HD]吉林公共
-https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8
-#EXTINF:-1,[HD]吉林公共@@1
-https://epg.pw/stream/6e9874c8189a8b9e6b7b66fc37cc2f755273cdacaf9c6c29386b74a4dd94a84a.m3u8
-#EXTINF:-1,[VGA]吉林公共
-https://epg.pw/stream/93c9138cefd4271b31d3e92ebcab79d0e224e0f0d7ca27e031250288675b9b0a.m3u8
-#EXTINF:-1,[SD]吉林|吉林公共
-https://epg.pw/stream/973c44e640db8a0dc1bdceed6ffd768768ee862ccec89bb0d1839e17500e72f5.m3u8
-#EXTINF:-1,[SD]吉林|吉林公共
-https://epg.pw/stream/1a73721071371cdfc369efe45b10a36cdd8f923e3188e4c4cdb97acb8782e8d5.m3u8
-#EXTINF:-1,[BD]哒啵赛事[geo-blocked]
-https://epg.pw/stream/f50310b8b4ba2633273142fb802e916fe6ac3b2e5407f2e88302d27392fa8ef8.m3u8
-#EXTINF:-1,[BD]哒啵赛事@@1[geo-blocked]
-https://epg.pw/stream/b86c4c5e7c9ea65d25fa8fba5324861e8fd1b2dc314e0363432f9d1d7cab861c.m3u8
-#EXTINF:-1,[BD]哒啵赛事 4m1080[ipv6]
-https://epg.pw/stream/a7f057e12f0667ba214805259000643631d2bcada6319edc88638bae0c882045.m3u8
-#EXTINF:-1,[HD]四川|蓬安新闻综合[geo-blocked]
-https://epg.pw/stream/2ee3dbb766acd5cf07af7a7ec948673b819eb6e6076c46eb6acbf7db898b571a.m3u8
-#EXTINF:-1,[SD]四川|蓬安新闻综合[geo-blocked]
-https://epg.pw/stream/1e5a2acfa827a7f15c3bc4082259d9861d001a833db6de8b747d8e8e371a3bca.m3u8
-#EXTINF:-1,[SD]四川卫视 8m
-https://epg.pw/stream/41bf966a14dc202c4f06c48d7410fac1dcab83affab6629cca762e917185e1c5.ctv
-#EXTINF:-1,[BD]四川卫视 8m
-https://epg.pw/stream/910c5c6bb2f9d8c6b3a2c79c1746b805396feb0ac99507b8e2cd1bad0011a4c3.ctv
-#EXTINF:-1,[BD]天津衛視[geo-blocked]
-https://epg.pw/stream/a6742c93cfbe45322b12fce389c8b3f1e2d4873b8d8a0a8651fd76d14d8d1ef7.m3u8
-#EXTINF:-1,[BD]安徽卫视 8m
-https://epg.pw/stream/f6b1dcb74cfda40bc84467d836f82596de9d58c96875cd23d0134bb00e9dd190.ctv
-#EXTINF:-1,[BD]安徽衛視@@3[geo-blocked]
-https://epg.pw/stream/8c0ad197987156d6aa527120a384fdb82820e3b0b57413e80e3bacec1861479c.m3u8
-#EXTINF:-1,[BD]安徽导视
-https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8
-#EXTINF:-1,[BD]山东文旅@@1
-rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
-#EXTINF:-1,[BD]山东|山东文旅
-https://epg.pw/stream/7041017ae660257cd43378e5b3a05a57080228b6780e5fe39a3ebc23d5e8372f.ctv
-#EXTINF:-1,[SD]山东|山东文旅
-https://epg.pw/stream/ceb858fae6a86785f06351a95fe568beceea064dd764bcb159e8c0d878dd619c.ctv
-#EXTINF:-1,[BD]山東衛視[geo-blocked]
-https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8
-#EXTINF:-1,[BD]山東衛視@@1[geo-blocked]
-https://epg.pw/stream/5286d0e2d19fa9d2e8d7d2f90f5cc2c96a5fed0e0a61b30f89ca64c5455df001.m3u8
-#EXTINF:-1,[BD]山東衛視@@2
-https://epg.pw/stream/7c0a1a7e50db8bfa2471e9622f356a2ac4e322b34aad5625fcf0a5b44a8da4fa.m3u8
-#EXTINF:-1,[BD]山東衛視@@5[geo-blocked]
-https://epg.pw/stream/3f2186f558d5fbcd845a51a1d2226253b661b77a7a2e83a3f47fa4e87daa6353.m3u8
-#EXTINF:-1,[BD]山西|潞城新闻综合
-https://epg.pw/stream/74b071446f0f63c0e85b588d597df41f81357899ae8d0cd454df93ca93f6dd9c.m3u8
-#EXTINF:-1,[SD]山西|潞城新闻综合
-https://epg.pw/stream/3220f1955accb2daf8795e7f48c690bece8d983f6a7fdd56a96300b6d8b28498.m3u8
-#EXTINF:-1,[SD]山西卫视.720
-https://epg.pw/stream/4c472153069c51068d748a0b625f43183bf5335518d1d91e636ebedbf63eec1c.m3u8
-#EXTINF:-1,[SD]山西卫视.720
-https://epg.pw/stream/eecb4ddfbcc37b40fd68d5e70fa945b2b02dcc6c47bab0e4d1e0a8647fa2bbbc.m3u8
-#EXTINF:-1,[HD]广东文化
-https://epg.pw/stream/0991386bc3dca2df2b5b7023ff8d183e388c889c70010c8dcf569b0796ad7f9b.m3u8
-#EXTINF:-1,[HD]广东文化@@1
-https://epg.pw/stream/8f3b867126266339ab049e15358c81e9e41f37658ed7080584c6993395fff5e3.m3u8
-#EXTINF:-1,[HD]广东文化@@2
-https://epg.pw/stream/fe735ce06028106adf01f9ed032ab55bfe43c5766926a52575de23b1230f5a99.m3u8
-#EXTINF:-1,[SD]广东文化
-https://epg.pw/stream/89a16edf6e3b1e6dbc13289c518f00238187af949c247b78861a8e550fc366a5.m3u8
-#EXTINF:-1,[SD]广东文化@@1
-https://epg.pw/stream/592621ffe44258b83e62314b2dd5dc16c7a7f480edc397be35ecf2e7a625c7b0.m3u8
-#EXTINF:-1,[BD]广东|广东文化
-https://epg.pw/stream/896bbefc809a5f7644ec27782ea9cd36c29dc1a29760b2276cb1648d75d298ef.m3u8
-#EXTINF:-1,[BD]广西新闻
-https://epg.pw/stream/597b16418e43bcc202797d8d78faf9a0139b0c4cc7de59796c8aa4c46b805cf1.m3u8
-#EXTINF:-1,[BD]广西|广西新闻
-https://epg.pw/stream/3aba6d9d7e5687d46ef9f00b3757b626a801b273be1f7d59dac0dce70980040b.m3u8
-#EXTINF:-1,[SD]广西|广西新闻
-https://epg.pw/stream/1e076ae2afd66db1bcba59d1af8688686d1fae282531941ac9b839519089c08d.m3u8
-#EXTINF:-1,[BD]廣東衛視
-https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8
-#EXTINF:-1,[BD]廣東衛視@@1[geo-blocked]
-https://epg.pw/stream/2c927fabd6395ef7c028cb211dcabdc40bc465490efd18bde8dc5e1180cd26a9.m3u8
-#EXTINF:-1,[BD]数码时代@@1
-https://epg.pw/stream/91a40b2ed597a5a8513552f4b67efb64b38d8c2c42faa15074bf95149415f9f2.m3u8
-#EXTINF:-1,[HD]数码时代@@3
-https://epg.pw/stream/4f659671fe431d81b0c553b8b2847195f5fe93e44f2490c0acf132b335519e2e.m3u8
-#EXTINF:-1,[BD]数码时代@@4
-https://epg.pw/stream/04d211cc93f41f7c7fc4d61ed6577068de9cb5e3bc6d3ea35b2e843fa8e2aeb6.m3u8
-#EXTINF:-1,[HD]数码时代@@5
-https://epg.pw/stream/614e88f524ec74082b31bdb4f6f045129eaeb61bd7c8c748d80cc984a8cf8187.m3u8
-#EXTINF:-1,[SD]数码时代
-https://epg.pw/stream/b947d3bd67bc6211640f36b972568538ecfe8ea6a8a7127fcab4421fea594312.m3u8
-#EXTINF:-1,[SD]数码时代@@3
-https://epg.pw/stream/c84dac6fa54c8e37210feab1fc4423a6c834bbaa322bf8bcd1dde3f6483ffe08.m3u8
-#EXTINF:-1,[SD]浙江|数码时代
-https://epg.pw/stream/49f556d84738ca36bc8fbbd9f71b98dd30c36a30ed578c116863ace921710985.m3u8
-#EXTINF:-1,[SD]浙江|数码时代
-https://epg.pw/stream/810e2136d939974261223d947fdb7857ae547e8b6ca4e68f3856e9bebcf5b369.m3u8
-#EXTINF:-1,[SD]林正英[geo-blocked]
-https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv
-#EXTINF:-1,[HD]林正英@@1
-https://epg.pw/stream/45f9c627c30e721a4abac6a201cb94db139d8bc9f8408612944af52ae4f0337e.ctv
-#EXTINF:-1,[BD]欢笑剧场 8m
-https://epg.pw/stream/2443be0eb636634c74f7bf6972a55a10afdaf94bbd98affd2ff957a9e72c6382.ctv
-#EXTINF:-1,[BD]欢笑剧场 8m
-https://epg.pw/stream/ea10af9137ec18fbc04356b8d1f95320aa53d3a61ea5c01a7a5d272d2b5fa2fd.ctv
-#EXTINF:-1,[BD]江蘇衛視[geo-blocked]
-https://epg.pw/stream/61b8aa46005ffd10e92fb8c239fd515814079d42edecf402e75205c1cfce2f23.m3u8
-#EXTINF:-1,[BD]江蘇衛視@@1
-https://epg.pw/stream/f641cd68858a9b72a75fdbb8450741dca8d64aeecba0bdcd3ccb5f826f07a739.m3u8
-#EXTINF:-1,[BD]江蘇衛視@@4[geo-blocked]
-https://epg.pw/stream/a25c3a90aa988c2c451a0356fee5a6d404b28651b3ca0a60ec7f534a5fd3fe65.m3u8
-#EXTINF:-1,[BD]江蘇衛視@@5[geo-blocked]
-https://epg.pw/stream/ecebea3ca53275b0831d6e56e17a20917e73129fd77945dfeecc6eea2ae70784.m3u8
-#EXTINF:-1,[BD]江西卫视 8m
-https://epg.pw/stream/bbfca72e08c8447ebde26e90a2eaf1ef09a96d86736d92e62677074fbc9300f9.ctv
-#EXTINF:-1,[BD]江西卫视 8m
-https://epg.pw/stream/440f27d56757e766a2297f9b765c5ca15a92e509e0d3a11caab5422da83c95e3.ctv
-#EXTINF:-1,[BD]河南卫视 8m
-https://epg.pw/stream/7d1641093e7ca8a44e8c606f4a27593261b32078c37e3449bad8aa77338fbf08.ctv
-#EXTINF:-1,[BD]河南卫视 8m
-https://epg.pw/stream/f8aa4d3c858029cfb9ad1df74bc1a2e6b5598c859ba9f99238198835341d0cb6.ctv
-#EXTINF:-1,[BD]法治天地[ipv6]
-https://epg.pw/stream/820567d53130b93853933c7fdbd207d137058fb3f6571d1cdd3a9a795e6c23fd.m3u8
-#EXTINF:-1,[BD]法治天地@@1[ipv6]
-https://epg.pw/stream/4389baae3c68d2fef8fb8656cda7c4977540b2c3525ecf1edf9d5b04d5017a80.m3u8
-#EXTINF:-1,[BD]法治天地 8m
-https://epg.pw/stream/4c8266f3d3cca8cce4f9e0762797e36605dd2b91e37d5f05c61fa87f8af30eab.ctv
-#EXTINF:-1,[BD]法治天地 8m
-https://epg.pw/stream/4d1df37a9e12ca2a8d25e22eb5beb2ec6b96b593f48ec4ecd4c64e24013ba655.ctv
-#EXTINF:-1,[BD]浙江|浙江国际频道
-https://epg.pw/stream/30da98f3cbd1cb42c238358d11cd653315c47b826c92ab938c282cdafac18663.m3u8
-#EXTINF:-1,[BD]浙江|浙江国际频道@@1
-https://epg.pw/stream/8ce97b09297dead9d94d8f1796976e648e4e7616ed8947b3f5e980a3b8376bb6.m3u8
-#EXTINF:-1,[BD]浙江卫视 8m
-https://epg.pw/stream/ef64c3fcb165aaf94458d76bfd1251f99af55f24c33e94cd1e3ff923ccbf3567.ctv
-#EXTINF:-1,[BD]浙江卫视 8m
-https://epg.pw/stream/546bf3ec25f8dc97c6b5d16bdda2b8fdc6d3cd077dbbf1d2212a7a87fc6847f0.ctv
-#EXTINF:-1,[BD]浙江衛視
-https://epg.pw/stream/450a0f7bfc4cbebb6c078a5fda0b0c111c7da9b00a987888634be30b8967af70.m3u8
-#EXTINF:-1,[BD]浙江衛視@@1[geo-blocked]
-https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8
-#EXTINF:-1,[BD]浙江衛視@@2
-https://epg.pw/stream/b852d89a4f1d6545debacae684fd5dd607d9a111afd019ed7b301affd5a1330a.m3u8
-#EXTINF:-1,[BD]浙江好易购
-https://epg.pw/stream/faf798bc33d13fd50774af1fcff8e5c128c7ce5d8fca70f9e868aa667701110d.m3u8
-#EXTINF:-1,[BD]浙江少兒
-https://epg.pw/stream/4da201afb21e9fe41946ca036262daf06482cf66c5cab4ae7b176dd436e84be1.m3u8
-#EXTINF:-1,[BD]浙江少儿
-https://epg.pw/stream/660210a9d6b6c259af5e58f7488345aa7beeec7892cfc27f2a0a376c8b4dc9fd.m3u8
-#EXTINF:-1,[BD]浙江新闻@@2
-https://epg.pw/stream/cacdce844e3fd07213a802acc8ad5c99e4ff8d121e6866ec146dcc0163918731.m3u8
-#EXTINF:-1,[HD]浙江新闻@@4
-https://epg.pw/stream/95c02317db13c2938763f27286faa8ace7407d799cfee520a108a3125a1fd962.m3u8
-#EXTINF:-1,[BD]浙江新闻@@5
-https://epg.pw/stream/bcd332d49f171cf5a967aaa89672a042ac00b859958749546a7bdddbf707ac85.m3u8
-#EXTINF:-1,[HD]浙江新闻@@6
-https://epg.pw/stream/b62898dfcace1035b8e4a300eea88b9e61a9167403dfd2854719060c7712e2bc.m3u8
-#EXTINF:-1,[SD]浙江新闻
-https://epg.pw/stream/5ee0668bbde8da82198ffec3378c79029e4cbe6d164f09f88c47d8fe35b904b0.m3u8
-#EXTINF:-1,[SD]浙江新闻@@2
-https://epg.pw/stream/16f91611762bdbdfc05733d12425c6bd240f81a8351ecc8b21be916848c89e5f.m3u8
-#EXTINF:-1,[BD]浙江新闻@@8
-https://epg.pw/stream/4bb98e28349b0381aa18ad4b59aba0decbf1bfcf24ba28baf37999371455b088.m3u8
-#EXTINF:-1,[BD]浙江新闻@@9
-https://epg.pw/stream/5f9ada2354ccab36977048e48de4455b3573fd688f999563b5b875c449200d55.m3u8
-#EXTINF:-1,[BD]浙江新闻@@10
-https://epg.pw/stream/f42a7a757a6f231fee62a2c8131686275f7d2683e1c379c8a8530fef842b518a.m3u8
-#EXTINF:-1,[BD]浙江民生休闲 v4
-https://epg.pw/stream/60d879826f429c9bfa3a16e2a14e62f399f44c8991c5fa3906245a6d395bc30b.m3u8
-#EXTINF:-1,[BD]海南公共[ipv6]
-https://epg.pw/stream/abd07e6b77f016555c639dcd2ef331cdeb59e7153f90b2ada356b9d68e8a7787.m3u8
-#EXTINF:-1,[BD]海南文旅[ipv6]
-https://epg.pw/stream/18019bf7e6f8be0fbfe9fffe085b73f374c59a7dc1a8cf334cfb84c6c7e98a74.m3u8
-#EXTINF:-1,[BD]海宁新闻综合[geo-blocked]
-https://epg.pw/stream/430bf9e770302d728d652b25b3c92a9357d50927a734bd8d97aacc47e6c875d3.m3u8
-#EXTINF:-1,[VGA]海宁新闻综合[geo-blocked]
-https://epg.pw/stream/b20fb7eee0281096886ad1312cae462109b4475a76c89c613daa1d0dc0d00046.m3u8
-#EXTINF:-1,[BD]深圳衛視[geo-blocked]
-https://epg.pw/stream/f71ce2c8d3869cd398598fccaa3ae45c79fc432743b033a33f58b7b2abd51c41.m3u8
-#EXTINF:-1,[BD]清河新闻综合
-https://epg.pw/stream/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8
-#EXTINF:-1,[SD]河北|清河新闻综合
-https://epg.pw/stream/053bffc76a7c27a728416048e490d626fdbf7d4ee674663b59d31d371eb822f1.m3u8
-#EXTINF:-1,[SD]河北|清河新闻综合
-https://epg.pw/stream/25d0f5659a2d4e06aba403217e5a526ed79f0d6de7f8ccbc3aa404242815070a.m3u8
-#EXTINF:-1,[BD]湖北卫视 8m
-https://epg.pw/stream/9b1a4cd504629a2b5937e24cdbdd1a45f24f16a95d459d00a7ede1ba64bf07d2.ctv
-#EXTINF:-1,[BD]湖北衛視@@3[geo-blocked]
-https://epg.pw/stream/ac13510f1ad5940d9329d508c7537759c8b57811f051799193eb2e0f1df3d551.m3u8
-#EXTINF:-1,[BD]湖北卫视 8m
-https://epg.pw/stream/8be5505a898854cc0e07137f4e74ada3f9a6dca4253d4cbc184e916cc4077fea.ctv
-#EXTINF:-1,[BD]湖南公共@@1
-https://epg.pw/stream/5aa9c359309aaf04d80b6c4db412c8efb79dc8b93a8a85870ea3d5006916e481.m3u8
-#EXTINF:-1,[BD]湖南都市@@1
-https://epg.pw/stream/e7ee5000bbbe162ae8f40bcbd5a5c447733400e8ab3e0b6867030f9f8bba21b2.m3u8
-#EXTINF:-1,[BD]滨海影视
-https://epg.pw/stream/07686fe556dab33bdd73b741e34c276c481627226c75fc433b9563d3ddba6280.m3u8
-#EXTINF:-1,[HD]嵊州新闻综合@@1
-https://epg.pw/stream/48499dc9139ca33ae105be59ba119c9ec0274c30f8145e9f18c0786e5df15a1c.m3u8
-#EXTINF:-1,[HD]嵊州新闻综合
-https://epg.pw/stream/b1ab5933fff553677f73b570a457b5352ad7ff8882c1621f7d01807d71d18a5a.m3u8
-#EXTINF:-1,[HD]兰溪新闻综合
-https://epg.pw/stream/78d151a66154e16d5f61a77924ecc13dee8795d3665e58a202fcb2aca960a1d3.m3u8
-#EXTINF:-1,[BD]熊猫频道[geo-blocked]
-https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8
-#EXTINF:-1,[HD]熊猫频道@@2[geo-blocked]
-https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540468d9c.m3u8
-#EXTINF:-1,[HD]珲春新闻综合@@1
-https://epg.pw/stream/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8
-#EXTINF:-1,[HD]珲春新闻综合
-https://epg.pw/stream/b646f1f7bf7882ecad5666ae91d03769edd94eb7436df364b5b316c4ca8da85f.m3u8
-#EXTINF:-1,[BD]生活时尚 8m
-https://epg.pw/stream/f2876354cd43079da5637591a7e3bf83006279b59c0ebcddb61e49f0850f1803.ctv
-#EXTINF:-1,[BD]生活时尚 8m
-https://epg.pw/stream/b7641c6b6b284bc2b4baaecf19c72369cecf7fe97967dded1f9572a4ebdf332e.ctv
-#EXTINF:-1,[BD]电竞天堂 8m
-https://epg.pw/stream/b5645851073f24cd1604c935e2829bce3182da6e63fdd5e1f99fcf74f35c129d.ctv
-#EXTINF:-1,[BD]电竞天堂 8m
-https://epg.pw/stream/b15253f0c6efa7ff1af10e9082c7cb00b32f61336547ded9fd0360ef015c94e9.ctv
-#EXTINF:-1,[SD]河北|石家庄新闻
-https://epg.pw/stream/33131b8c9de340ac28a25750555008f478ee45cc9aaf1c97f6b24fb61b72a86d.m3u8
-#EXTINF:-1,[SD]河北|石家庄新闻
-https://epg.pw/stream/9e45ca009cb136a2c587877809bf940e12f22d9a4c2a98f7551157b0c1861724.m3u8
-#EXTINF:-1,[BD]石家庄都市1
-https://epg.pw/stream/de65f82aee82beb140a0d077456efbf1cf0aa8927b52f107acc45775c4f8d471.m3u8
-#EXTINF:-1,[BD]福建|福州生活
-https://epg.pw/stream/064305a3cdc68ddc61ba34596d4719f2648a93796989bf659a6961c393ceb1b3.m3u8
-#EXTINF:-1,[SD]福建|福州生活
-https://epg.pw/stream/5db2a46a3c6124bb7ff93f2279fe778276612f09bd9332de806956f07555a745.m3u8
-#EXTINF:-1,[BD]精彩电视剧@@1
-https://epg.pw/stream/f259fe08835df675114b62ca11aa2eef062df174ad88341d825823166beb4558.m3u8
-#EXTINF:-1,[BD]精彩电视剧@@2
-https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8
-#EXTINF:-1,[BD]純享4k[ipv6]
-https://epg.pw/stream/3d415736bf3fe85fba684c3e39d70ede54a2cf8fbb3403da2397a1c6b53b6705.m3u8
-#EXTINF:-1,[BD]純享4k@@1[ipv6]
-https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8
-#EXTINF:-1,[BD]纯享4k[ipv6]
-https://epg.pw/stream/b3308fab36d70257c4f8035b4d5fdf935be5aa7d894a1735f370ca3fb5368850.m3u8
-#EXTINF:-1,[BD]纯享4k@@1[ipv6]
-https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8
-#EXTINF:-1,[BD]纯享4k@@2[ipv6]
-https://epg.pw/stream/acb37c9499648b3d821f0c919577b0b75df78d89b33c5f13461303913b3f9cdb.m3u8
-#EXTINF:-1,[BD]纯享4k@@3[ipv6]
-https://epg.pw/stream/e36ddb2c52a27aafa553c686d78415c9e38fccd7a5b42dd55656157681635d46.m3u8
-#EXTINF:-1,[BD]纯享4k@@4[ipv6]
-https://epg.pw/stream/9c1db237a5936b8a62e385f181982705360ccf8c7e918af8aab64885fe70c49c.m3u8
-#EXTINF:-1,[SD]浙江|绍兴文化影视
-https://epg.pw/stream/1b5b3c7574050b3213b6574c6857dcea6bbb7e78121ecc792f530bf645d0d6d5.m3u8
-#EXTINF:-1,[BD]聚鲨环球精选[geo-blocked]
-https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv
-#EXTINF:-1,[HD]萧山新闻综合
-https://epg.pw/stream/51e0a1fe5c006c955e68548c9b2a13ce3d35adb30579eaf00b11a9ec52ee9fe0.m3u8
-#EXTINF:-1,[HD]萧山新闻综合@@1
-https://epg.pw/stream/cede68951d48333a2399042d97d25182fc83beb5887aa2b690e71cfcfd4b883f.m3u8
-#EXTINF:-1,[HD]萧山新闻综合
-https://epg.pw/stream/1c41768e993a54617b9a22c65c9d4dcaea80759097ee0a859f1e8590955ddad7.m3u8
-#EXTINF:-1,[HD]浙江|萧山新闻综合
-https://epg.pw/stream/1392ec9214a6a3c2806ef5cf71adf8a734bdb60f6f1a32f7a3b9c9be71271704.m3u8
-#EXTINF:-1,[SD]浙江|萧山新闻综合
-https://epg.pw/stream/5fce8e62dd2ae492e0c1bc1cd0492bbcb8398723275941b558365706a452aa44.m3u8
-#EXTINF:-1,[BD]萧山新闻综合@@2
-https://epg.pw/stream/8dbcece5a97f047d759bdda16148b9b675e6800179ce53814533b0dc5664f4d9.m3u8
-#EXTINF:-1,[BD]浙江|萧山新闻综合
-https://epg.pw/stream/db0b4111beac538239418d20dc57c78f93faf6ff4862a1d1cef370028b3aa468.m3u8
-#EXTINF:-1,[BD]荆门新闻综合[geo-blocked]
-https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
-#EXTINF:-1,[BD]荆门新闻综合@@1[geo-blocked]
-https://epg.pw/stream/93151160c381a034f6cf7e560a6fa981282baea3f54a177ee39ec6c5222f5f01.m3u8
-#EXTINF:-1,[BD]荆门新闻综合@@1[geo-blocked]
-https://epg.pw/stream/9530f08f03324e997bf7d72bf233cd0a8d70e5511d3495d41ced5bc9b36d8316.m3u8
-#EXTINF:-1,[HD]荆州新闻综合
-https://epg.pw/stream/49096f27585d6f4d25b7e3bb30dde7ab4b4eda8a45d76d4d9cbc77617ce05730.m3u8
-#EXTINF:-1,[BD]苍南新闻综合
-https://epg.pw/stream/fa5f1fadc29be3aab195dfa0fb13f94dc6427671aa6cae16dd5ff85e12254027.m3u8
-#EXTINF:-1,[HD]运城新闻综合@@1[geo-blocked]
-https://epg.pw/stream/01674170c2d21875c446eb82635ea73693cdcb0ceeddf63d0b323f0c0e6fa190.m3u8
-#EXTINF:-1,[HD]运城新闻综合[geo-blocked]
-https://epg.pw/stream/f6e57d419a066d4cd10fa6a180e6d48a685820ff887c7d06ef1fc46974f5adb9.m3u8
-#EXTINF:-1,[SD]山西|运城新闻综合[geo-blocked]
-https://epg.pw/stream/dbb47c0ce9052875bbf3644934c7a76acd0cb696bf2a1eb3eaf658fe6295fd7f.m3u8
-#EXTINF:-1,[SD]山西|运城新闻综合[geo-blocked]
-https://epg.pw/stream/0da54c2666f080e2146c67d46cd752cfcb59bc63be6d132a3a0939e4f13743db.m3u8
-#EXTINF:-1,[HD]运城科技教育[geo-blocked]
-https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8
-#EXTINF:-1,[HD]运城科技教育@@1[geo-blocked]
-https://epg.pw/stream/681840c6c612a0a3f013206c2eac5b3dafde5ab0c29573642aa03f41a681884b.m3u8
-#EXTINF:-1,[HD]运城科技教育[geo-blocked]
-https://epg.pw/stream/771ca5cb3fa309fb38cf86a7ee648b8a66fafc75482fa5cabbb93d9f848a883c.m3u8
-#EXTINF:-1,[SD]山西|运城科技教育[geo-blocked]
-https://epg.pw/stream/265eb60ad342a9756e473703413efcf50007e875cb3b66b2e8e2f4f608baa8ae.m3u8
-#EXTINF:-1,[SD]山西|运城科技教育[geo-blocked]
-https://epg.pw/stream/8f5df3e2dc51abf46de3d1536cfaabad1cda9aaba01bc630c7df32e2ac2e088c.m3u8
-#EXTINF:-1,[HD]邢台综合频道
-https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8
-#EXTINF:-1,[SD]邢台综合频道@@1
-https://epg.pw/stream/04f34f26174b0b14873da99d1234d7d94082d7579d613fde3753670555b0067b.m3u8
-#EXTINF:-1,[HD]邢台综合
-https://epg.pw/stream/22a727200d94fded7d5071e1fa312eea44c9131f2597e7bf0e6fafbef44071b9.m3u8
-#EXTINF:-1,[BD]邢台综合@@1[geo-blocked]
-https://epg.pw/stream/2dc1760d271b15f5d8ec0925bf13037b100af661a5550d4fce6d738c38bdd8e8.m3u8
-#EXTINF:-1,[BD]金鹰纪实 8m
-https://epg.pw/stream/f129dd062627e43e9a6ed6e033b8659688d6faf22c5b33cbf278ef29dbf876c6.ctv
-#EXTINF:-1,[BD]金鹰纪实 8m
-https://epg.pw/stream/b79eee2687489d035ea0c75e6d0157972b69150e3cdb5797fd44ca0f2894690a.ctv
-#EXTINF:-1,[HD]怒江新闻综合[geo-blocked]
-https://epg.pw/stream/d9ae62961c336c9157bcbf4f31d957aa1af0d5b6d06d37fcf202cee7a27adb12.m3u8
-#EXTINF:-1,[BD]衢江新闻综合
-https://epg.pw/stream/f3219833480ea0beebc14ecbb50d37f9f3600b64c8ecfaec5910421183b3c19d.m3u8
-#EXTINF:-1,[HD]靖江新闻綜合@@2
-https://epg.pw/stream/3a4f714120cdcaf723bc8cdc1975a22402e00e7da475060ad7763e8d974afe6d.m3u8
-#EXTINF:-1,[BD]镇江新闻@@2
-https://epg.pw/stream/b0e776b726b7704f5ec03c236201983be898449519d041d2661a5c0a2c55ee4a.ctv
-#EXTINF:-1,[BD]镇江新闻@@3
-https://epg.pw/stream/3b8fa0a822e57a8e0b880f0bd3a83b5960853e886eaf3f6c897d3df81d594fcd.m3u8
-#EXTINF:-1,[BD]长沙影视
-https://epg.pw/stream/8df7e32e2fe0a52127d0920f858fcb6c4b21ace2236521512c94e4b4d0f8d46a.m3u8
-#EXTINF:-1,[BD]长沙影视
-https://epg.pw/stream/776d1bacea2cae8ff71c7b39a7af0cbfe7be75b6fedc75fb82da0acf718afb53.m3u8
-#EXTINF:-1,[HD]隆安新闻综合
-https://epg.pw/stream/de03524f89ce5286df3ca4a662ee863dfb27d3b90fd3884c19462d9957b99971.m3u8
-#EXTINF:-1,[BD]迁安新闻综合
-https://epg.pw/stream/0bf6f5d41392177e8e1d388f44bf343cb42d5da7ea3fd3dec587896aa4524780.m3u8
-#EXTINF:-1,[SD]云南|云南康旅
-https://epg.pw/stream/28b355e37f84b49d76c3fef1046a9d397093afe662138ed9d390d101c4161437.m3u8
-#EXTINF:-1,[SD]云南|云南康旅
-https://epg.pw/stream/cbedce3b9ef21c7e743bd1857593d23a4f8ddb7181daf40f472d9cd650609237.m3u8
-#EXTINF:-1,[BD]5+體育賽事[geo-blocked]
-https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8
-#EXTINF:-1,[BD]5+體育賽事@@2
-https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
-#EXTINF:-1,[BD]5+體育賽事@@3
-https://epg.pw/stream/a51e2c761f668e48962ec6b8a5ed75eac72ccdce4e514bf8af0d61fb79d5dde6.m3u8
-#EXTINF:-1,[BD]5+體育賽事@@4[geo-blocked]
-https://epg.pw/stream/44ba9420746bb8cea7032ca950b5aea57fc92591b8566ce4ae0a77008db5e76a.m3u8
-#EXTINF:-1,[BD]黑莓电影@@2[ipv6]
-https://epg.pw/stream/9ced65baa1c5fab321b210944b8ace008ffd270165ebdb3f24af053e0a7f0a4a.m3u8
-#EXTINF:-1,[BD]黑莓电影@@3[ipv6]
-https://epg.pw/stream/7a552c36ab63bf8ca14b3a6e05ce188d3243c9c6534d67d70ff72905aabca67e.m3u8
-#EXTINF:-1,[BD]黑莓电影@@4[geo-blocked]
-https://epg.pw/stream/badabef8ae961dfb192cc8fcaa5cd7f4fcdd6a6d95685ccd8b77c787bdc06a6b.m3u8
-#EXTINF:-1,[SD]黑龙江公共农业[geo-blocked]
-https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8
-#EXTINF:-1,[VGA]黑龙江公共农业@@1[geo-blocked]
-https://epg.pw/stream/5217c5f063f591f65db0dc4a9063c54c4134206cc4f0adbdf89c2cc3e2f61c42.m3u8
-#EXTINF:-1,[BD]黑龙江卫视 8m
-https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv
-#EXTINF:-1,[BD]黑龙江卫视 8m
-https://epg.pw/stream/0469d3e27051b57f8d2f1ff3d4e15d19ae303531dbe907912819f0cd42d8986f.ctv
-#EXTINF:-1,[BD]黑龍江衛視
-https://epg.pw/stream/8c996e3d8de40dd0dc1ceb9414ce4347c957c2030c97aaee596fe52034779605.m3u8
-#EXTINF:-1,[BD]黑龍江衛視@@1[geo-blocked]
-https://epg.pw/stream/14635f6da7f307203fb5d584e7e7211345f8830ee5b55b49545904ad1efa2202.m3u8
-#EXTINF:-1,[BD]黑龍江衛視@@3
-https://epg.pw/stream/179e8bf557f2b3518eb18fbab15c0583f4cc87c0e8fcee292236d838c432e57a.m3u8
-#EXTINF:-1,[BD]黑龍江衛視@@5[geo-blocked]
-https://epg.pw/stream/bc93a9d4d2167bb59c2742cc68eb27ce48905eb8cb1650f330808fa4af9a6222.m3u8
+
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
+cgtn
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+bjws
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
+dfws
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
+zjws
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
+jsws
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+hnws
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
+szws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
+tjws
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
+gdws
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+hljws
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
+ahws
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+lnws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
+scws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
+cqws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
+gzws
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
+jxws
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
+dnws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
+hbws
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
+henws
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
+sdws
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
+hainws
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
+gxws
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
+jlws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
+shxws
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+nmws
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
+xzws
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
+hebws
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
+qhws
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+nxws
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
+ynws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
+sxws
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
+gsws
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
+xjws
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
+btws
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视",CETV-1
+cetv1
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视",CETV-4
+cetv4
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育卫视
+sdjy
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
+bjjskj
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="卫视",卡酷少儿
+bjkkse
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视",纪实人文
+shjsrw
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
+jykt
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视",金鹰纪实
+jyjs
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="卫视",家庭理财
+jtlc
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视",中国天气
+zgqx
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="卫视",嘉佳卡通
+jjkt
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="地方",浙江公共新闻
+
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="地方",浙江国际
+
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="地方",浙江少儿
+
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="地方",浙江教科影视
+
+#EXTINF:-1 tvg-id="浙江数码时代" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="地方",浙江数码时代
+
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方",浙江民生休闲
+
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济生活
+
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="地方",浙江钱江频道
+
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方",内蒙古新闻综合
+
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="地方",内蒙古经济生活
+
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" group-title="地方",内蒙古少儿频道
+
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" group-title="地方",内蒙古文体娱乐
+
+#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="地方",内蒙古农牧频道
+
+#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" group-title="地方",内蒙古蒙语卫视
+
+#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" group-title="地方",内蒙古蒙语文化
+
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海新闻综合
+
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方",上海都市
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
+
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳",澳视澳门
+
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳",星空卫视
+
+#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="港澳",澳亚卫视
+
+#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳",耀才财经
+
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳",香港卫视
+
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳",莲花卫视
+
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="港澳",人间卫视
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="国际",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="国际",CGTN俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="国际",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="国际",CGTN西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="国际",CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHKWORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="半岛英语" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛英语
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛阿语
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3" tvg-name="ThaiPBS3" tvg-logo="https://live.fanmingming.com/tv/ThaiPBS.png" group-title="国际",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="国际",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="国际",FASHIONTV
+https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="国际",FASHIONTV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="金砖电视" tvg-name="金砖电视" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="国际",金砖电视
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
